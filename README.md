@@ -1,9 +1,9 @@
 # Welcome to Emoji Thief
+## You can install this app via [this](https://discord.com/oauth2/authorize?client_id=1515082319206285503&integration_type=1&scope=applications.commands) invite
 Tired of searching for emojis you spot on discord that you wish to use? Just install this user app and steal the emoji!
 Emoji Thief is able to turn all custom static and animated emojis into a downloadable PNG or GIF for easy emoji gathering.
 
 This project was inspired from izzythesillyfox requesting an emoji from another member, I had an AHA! moment and decided to try and make a bot that can do this easily and quickly anywhere on Discord!
-You can install this app via [this](https://discord.com/oauth2/authorize?client_id=1515082319206285503&integration_type=1&scope=applications.commands) invite
 IMPORTANT!!!!!
 READ THE TOS AND PRIVACY POLICY!
 [You can find those here](https://github.com/KarsonTheFoxx/Emoji-Thief)
