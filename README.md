@@ -16,6 +16,7 @@ Just follow the 4 simple steps below to get started!
 4. Select the Steal Emoji option
 
 Emoji Thief will then work it's magic and within seconds you will have the downloadable PNG or GIF directly in your chat!
+(I am aware "thief" is spelled wrong. I am kinda stupid OK, waiting for discord support to come change it because verified apps cannot be changed without them for some reason)
 ![A screenshot showing an example reply from the bot](images/image.png)
 
 LIMITATIONS:
