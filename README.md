@@ -33,6 +33,7 @@ TODO:
 3. Implement GIF support (Allowing Emoji Thief to find the name of a GIF so you can find it in the built in GIF search)
 4. Potentally create a community/support server if the userbase grows large enough (THIS MAY NEVER HAPPEN)
 5. Potentally implement an in app way to submit feedback
+   A COMMUNITY SERVER NOW EXISTS BUT IS STILL BEING WORKED ON! AN INVITE TO IT WILL BE ADDED HERE WHEN IT'S MORE POLISHED!
 
 CHANGELOG:
 1. June 12th 2026
